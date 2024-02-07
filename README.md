@@ -1,19 +1,20 @@
 # Dominio Completo em Python 
-Comando Break<br>
-Comando continue<br>
-Comando pass<br>
+<li>Comando Break<br>
+<li>Comando continue<br>
+<li>Comando pass<br>
 <h2>Listas em Python</h2>
-Criando lista vazia<br>
-Criando lista com número de posições definidas<br>
-Obtendo o tamanho de uma lista<br>
-Incluindo dados em uma lista<br>
-Removendo dados em uma lista<br>
+<li>Criando lista vazia<br>
+<li>Criando lista com número de posições definidas<br>
+<li>Obtendo o tamanho de uma lista<br>
+<li>Incluindo dados em uma lista<br>
+<li>Removendo dados em uma lista<br>
 <h2>Tuplas</h2>
-Trabalhando com tuplas<br>
-Slicin/ fateamento de uma tupla
+<li>Trabalhando com tuplas<br>
+<li>Slicin/ fateamento de uma tupla
 <h2>Strings</h2>
-Trabalhando com string<br>
+<li>Trabalhando com string<br>
 <h2>Trabalhando com set(conjuntos)</h2>
-Criando uma collection do tipo set<br>
-União dos elementos entre dois set
+<li>Criando uma collection do tipo set<br>
+<li>União dos elementos entre dois set<br>
+<li>Identificando elementos comuns entre dois sets
 
