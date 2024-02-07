@@ -20,3 +20,4 @@
 <li>Identificando elementos que estão somente em um set</li>
 <li>Incluindo ou atualizando elementos de um set com métodos add() ou update()</li>
 <li>Removendo elementos de um set com os métodos remove(), discard() ou pop()</li>
+<li>Removendo elementos duplicados de um set</li>
