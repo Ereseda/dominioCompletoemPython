@@ -32,3 +32,12 @@ print(lista_2)
 lista_3 = ["Gestantes", "Idosos"]
 lista_2 = lista_2 + lista_3
 print(lista_2)
+
+print("Lendo os valores da lista utilizando a keyword range()")
+for i in range(0,len(lista_de_guiche)):
+    print(lista_de_guiche [i])
+
+lista_de_guiche = [34949, 34234, 65645, 90905, 34593, "Valores alfanumérico: 123...", True, 10.50]
+print("Lendo os valores da lista utilizando a keyword in")   
+for guiche in lista_de_guiche:
+    print(guiche)
