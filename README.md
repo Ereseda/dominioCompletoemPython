@@ -22,3 +22,4 @@
 <li>Removendo elementos de um set com os métodos remove(), discard() ou pop()</li>
 <li>Removendo elementos duplicados de um set</li>
 <li>Definindo um set com elementos que não podem ser modificados(Frozen based sets.)</li>
+<h2>Trabalhando com Dicionary- Dicionário de dados</h2>
