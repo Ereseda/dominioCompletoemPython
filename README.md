@@ -11,3 +11,4 @@ Removendo dados em uma lista<br>
 <h2>Tuplas</h2>
 Trabalhando com tuplas<br>
 Slicin/ fateamento de uma tupla
+<h2>Strings</h2>
