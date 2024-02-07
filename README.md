@@ -1,3 +1,4 @@
 # dominioCompletoemPython
 Comando Break<br>
-Comando continue
+Comando continue<br>
+Comando pass
