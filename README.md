@@ -17,4 +17,5 @@
 <li>Criando uma collection do tipo set<br>
 <li>União dos elementos entre dois set<br>
 <li>Identificando elementos comuns entre dois sets
+<li>Identificando elementos que estão somente em um set</li>
 
