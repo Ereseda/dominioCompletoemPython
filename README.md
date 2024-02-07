@@ -24,3 +24,5 @@
 <li>Definindo um set com elementos que não podem ser modificados(Frozen based sets.)</li>
 <h2>Trabalhando com Dicionary- Dicionário de dados</h2>
 <li>Collection- Dictionary</li>
+<h2>Trabalhando com Funções</h2>
+<li></li>
