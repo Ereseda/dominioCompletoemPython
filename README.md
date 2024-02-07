@@ -9,3 +9,5 @@ Obtendo o tamanho de uma lista<br>
 Incluindo dados em uma lista<br>
 Removendo dados em uma lista<br>
 <h2>Tuplas</h2>
+Trabalhando com tuplas<br>
+Slicin
