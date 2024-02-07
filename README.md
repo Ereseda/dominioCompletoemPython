@@ -21,3 +21,4 @@
 <li>Incluindo ou atualizando elementos de um set com métodos add() ou update()</li>
 <li>Removendo elementos de um set com os métodos remove(), discard() ou pop()</li>
 <li>Removendo elementos duplicados de um set</li>
+<li>Definindo um set com elementos que não podem ser modificados(Frozen based sets.)</li>
