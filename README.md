@@ -13,3 +13,7 @@ Trabalhando com tuplas<br>
 Slicin/ fateamento de uma tupla
 <h2>Strings</h2>
 Trabalhando com string<br>
+<h2>Trabalhando com set(conjuntos)</h2>
+Criando uma collection do tipo set<br>
+União dos elementos entre dois set
+
