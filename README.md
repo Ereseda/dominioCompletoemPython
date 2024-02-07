@@ -12,3 +12,4 @@ Removendo dados em uma lista<br>
 Trabalhando com tuplas<br>
 Slicin/ fateamento de uma tupla
 <h2>Strings</h2>
+Trabalhando com string<br>
