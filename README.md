@@ -26,3 +26,7 @@
 <li>Collection- Dictionary</li>
 <h2>Trabalhando com funções </h2>
 <li>exemplos de 4 modelos de aplicações em função.</li>
+<h2>Passagem de Parâmetros </h2>
+<li>Passagem por valor </li>
+<li>Passagem por referência</li>
+
