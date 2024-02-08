@@ -29,4 +29,5 @@
 <h2>Passagem de Parâmetros </h2>
 <li>Passagem por valor </li>
 <li>Passagem por referência</li>
+<li>Exemplo de variável global</li>
 
