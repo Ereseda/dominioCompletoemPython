@@ -24,5 +24,5 @@
 <li>Definindo um set com elementos que não podem ser modificados(Frozen based sets.)</li>
 <h2>Trabalhando com Dicionary- Dicionário de dados</h2>
 <li>Collection- Dictionary</li>
-<h2>Trabalhando </h2>
-<li></li>
+<h2>Trabalhando com funções </h2>
+<li>exemplos de 4 modelos de aplicações em função.</li>
